@@ -1,5 +1,8 @@
 {
   "name": "PatinhasApp",
-  "integrations": {},
-  "type": "angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "63454c00"
 }
